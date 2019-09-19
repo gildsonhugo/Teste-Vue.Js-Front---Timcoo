@@ -1,1 +1,1 @@
-[{"timestamp":1568902889,"feel":"50"},{"timestamp":1568902897,"feel":"80"},{"timestamp":1568902904,"feel":"24"}]
+[{"timestamp":1568902889,"feel":"50"},{"timestamp":1568902897,"feel":"80"},{"timestamp":1568902904,"feel":"24"},{"timestamp":1568905631,"feel":"50"},{"timestamp":1568905663,"feel":"50"},{"timestamp":1568905760,"feel":"50"},{"timestamp":1568905843,"feel":"50"}]

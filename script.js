@@ -58,7 +58,9 @@ var app = new Vue({
             fetch(`form.php`, {
                method: 'POST',
                body: formData
-            }).then(r => r.json());
+            }).then(r => {
+                M.toast({html: 'Success'});
+            });
         }
 
     }
