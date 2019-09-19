@@ -20,7 +20,7 @@ var app = new Vue({
             if(this.valueFeel >= 80){
                 statusData.className = `light-green`;
                 statusData.imgUrl = `imgs/mt-feliz.png`;
-                statusData.nameStatus = `Muito Feliz;`
+                statusData.nameStatus = `Muito Feliz`
             }
 
             if(this.valueFeel < 80 && this.valueFeel >= 60){
