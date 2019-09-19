@@ -17,4 +17,4 @@
     fwrite($file, json_encode($data));
     fclose($file);
 
-    echo 'success';
+    echo 'Success';
