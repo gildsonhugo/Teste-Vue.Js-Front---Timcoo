@@ -58,7 +58,7 @@ var app = new Vue({
             fetch(`form.php`, {
                method: 'POST',
                body: formData
-            }).then(r => r.text()).then(r => console.log(M.toast({html: `${r}`})));
+            }).then(r => r.text()).then(r => M.toast({html: `${r}`}));
         }
 
     }
